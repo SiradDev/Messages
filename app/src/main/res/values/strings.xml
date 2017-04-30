@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Messages</string>
+    <string name="sendLabel">Enter your message:</string>
+    <string name="editTextHint">Message</string>
+    <string name="btnSend">Send Message</string>
+    <string name="receivedMsgLabel">Received message: </string>
+    <string name="btnClose">Close</string>
+    <string name="toastMessage">Please enter a message!</string>
+</resources>
